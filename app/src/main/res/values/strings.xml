@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Mapbox Heatmap Java</string>
-    <string name="mapbox_access_token">pk.eyJ1IjoiYWxsb3kwMiIsImEiOiJjbG40bWwzb2kwMmExMmp0N3N0eGVzNGtjIn0.J7JIzwoxYVzKfMHJKQj3aA</string>
+    <string name="mapbox_access_token">PLACE_YOUR_MAPBOX_PUBLIC_KEY_HERE</string>
 </resources>
